@@ -115,12 +115,6 @@ span {
   main {
     padding: 5% 10%;
   }
-
-  .attribution {
-    position: relative;
-    text-align: center;
-    margin-top: 20px;
-  }
 }
 
 @media (max-width: 500px) {
